@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "Kizashi-Devices/android_vendor_motorola_msm8953-common",
+    "target_path": "vendor/motorola/msm8953-common",
+    "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository":  "PrabhatProxy/kernel_motorola_msm8953-proximity",
+    "target_path": "kernel/motorola/msm8953",
+    "branch": "11.0-proximity"
+  }
+]
